@@ -1,0 +1,10 @@
+*.o
+*.so
+*.Rproj
+.Rproj.user
+.Rhistory
+inst/doc
+*.tar.gz
+.RData
+*.sh
+*.R

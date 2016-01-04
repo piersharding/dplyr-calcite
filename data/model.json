@@ -1,0 +1,14 @@
+{
+  version: '1.0',
+  defaultSchema: 'lahman',
+  schemas: [
+    {
+      name: 'lahman',
+      type: 'custom',
+      factory: 'org.apache.calcite.adapter.csv.CsvSchemaFactory',
+      operand: {
+        directory: './tables'
+      }
+    }
+  ]
+}

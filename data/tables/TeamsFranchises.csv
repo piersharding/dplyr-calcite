@@ -1,0 +1,121 @@
+franchID,franchName,active,NAassoc 
+"ALT","Altoona Mountain City","N",0
+"ANA","Los Angeles Angels of Anaheim","Y",0
+"ARI","Arizona Diamondbacks","Y",0
+"ATH","Philadelphia Athletics","N","PNA"
+"ATL","Atlanta Braves","Y","BNA"
+"BAL","Baltimore Orioles","Y",0
+"BFB","Buffalo Bisons","N",0
+"BFL","Buffalo Bisons","N",0
+"BLC","Baltimore Canaries","NA",0
+"BLO","Baltimore Orioles","N",0
+"BLT","Baltimore Terrapins","N",0
+"BLU","Baltimore Monumentals","N",0
+"BNA","Boston Red Stockings","NA","ATL"
+"BOS","Boston Red Sox","Y",0
+"BRA","Brooklyn Atlantics","NA",0
+"BRD","Boston Reds","N",0
+"BRG","Brooklyn Gladiators","N",0
+"BRS","Boston Reds","N",0
+"BTT","Brooklyn Tip-Tops","N",0
+"BUF","Buffalo Bisons","N",0
+"BWW","Brooklyn Ward's Wonders","N",0
+"CBK","Columbus Buckeyes","N",0
+"CBL","Cleveland Blues","N",0
+"CEN","Philadelphia Centennials","NA",0
+"CFC","Cleveland Forest Citys","NA",0
+"CHC","Chicago Cubs","Y","CNA"
+"CHH","Chicago Whales","N",0
+"CHP","Chicago Pirates","N",0
+"CHW","Chicago White Sox","Y",0
+"CIN","Cincinnati Reds","Y",0
+"CKK","Cincinnati Kelly's Killers","N",0
+"CLE","Cleveland Indians","Y",0
+"CLI","Cleveland Infants","N",0
+"CLS","Columbus Solons","N",0
+"CLV","Cleveland Spiders","N",0
+"CNA","Chicago White Stockings","NA","CHC"
+"CNR","Cincinnati Reds","N",0
+"COL","Colorado Rockies","Y",0
+"COR","Cincinnati Outlaw Reds","N",0
+"CPI","Chicago/Pittsburgh (Union League)","N",0
+"DET","Detroit Tigers","Y",0
+"DTN","Detroit Wolverines","N",0
+"ECK","Brooklyn Eckfords","NA",0
+"FLA","Florida Marlins","Y",0
+"HAR","Hartford Dark Blues","N","HNA"
+"HNA","Hartford Dark Blues","NA","HAR"
+"HOU","Houston Astros","Y",0
+"IBL","Indianapolis Blues","N",0
+"IHO","Indianapolis Hoosiers","N",0
+"IND","Indianapolis Hoosiers","N",0
+"KCC","Kansas City Cowboys","N",0
+"KCN","Kansas City Cowboys","N",0
+"KCP","Kansas City Packers","N",0
+"KCR","Kansas City Royals","Y",0
+"KCU","Kansas City Cowboys","N",0
+"KEK","Fort Wayne Kekiongas","NA",0
+"LAD","Los Angeles Dodgers","Y",0
+"LGR","Louisville Grays","N",0
+"LOU","Louisville Colonels","N",0
+"MAN","Middletown Mansfields","NA",0
+"MAR","Baltimore Marylands","NA",0
+"MIL","Milwaukee Brewers","Y",0
+"MIN","Minnesota Twins","Y",0
+"MLA","Milwaukee Brewers","N",0
+"MLG","Milwaukee Grays","N",0
+"MLU","Milwaukee Brewers","N",0
+"NAT","Washington Nationals","NA",0
+"NEW","Newark Pepper","N",0
+"NHV","New Haven Elm Citys","NA",0
+"NNA","New York Mutuals","NA","NYU"
+"NYI","New York Giants","N",0
+"NYM","New York Mets","Y",0
+"NYP","New York Metropolitans","N",0
+"NYU","New York Mutuals","N","NNA"
+"NYY","New York Yankees","Y",0
+"OAK","Oakland Athletics","Y",0
+"OLY","Washington Olympics","NA",0
+"PBB","Pittsburgh Burghers","N",0
+"PBS","Pittsburgh Rebels","N",0
+"PHA","Philadelphia Athletics","N",0
+"PHI","Philadelphia Phillies","Y",0
+"PHK","Philadelphia Keystones","N",0
+"PHQ","Philadelphia Athletics","N",0
+"PIT","Pittsburgh Pirates","Y",0
+"PNA","Philadelphia Athletics","NA","ATH"
+"PRO","Providence Grays","N",0
+"PWS","Philadelphia White Stockings","NA",0
+"RES","Elizabeth Resolutes","NA",0
+"RIC","Richmond Virginians","N",0
+"ROC","Rochester Broncos","N",0
+"ROK","Rockford Forest Citys","NA",0
+"SBS","St. Louis Brown Stockings","N","SNA"
+"SDP","San Diego Padres","Y",0
+"SEA","Seattle Mariners","Y",0
+"SFG","San Francisco Giants","Y",0
+"SLI","St. Louis Terriers","N",0
+"SLM","St. Louis Maroons","N",0
+"SLR","St. Louis Red Stockings","NA",0
+"SNA","St. Louis Brown Stockings","NA","SBS"
+"STL","St. Louis Cardinals","Y",0
+"STP","St. Paul Apostles","N",0
+"SYR","Syracuse Stars","N",0
+"SYS","Syracuse Stars","N",0
+"TBD","Tampa Bay Rays","Y",0
+"TEX","Texas Rangers","Y",0
+"TLM","Toledo Maumees","N",0
+"TOL","Toledo Blue Stockings","N",0
+"TOR","Toronto Blue Jays","Y",0
+"TRO","Troy Haymakers","NA",0
+"TRT","Troy Trojans","N",0
+"WAS","Washington Senators","N",0
+"WBL","Washington Blue Legs","NA",0
+"WES","Keokuk Westerns","NA",0
+"WIL","Wilmington Quicksteps","N",0
+"WNA","Washington Nationals","N",0
+"WNL","Washington Nationals","N",0
+"WNT","Washington Nationals","NA",0
+"WOR","Worcester Ruby Legs","N",0
+"WSN","Washington Nationals","Y",0
+"WST","Washington Statesmen","N",0

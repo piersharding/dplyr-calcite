@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+.Rprofile
+inst/db
+man-roxygen
+rcmd-notes.Rmd
+NEWS\.md
+demo/pandas

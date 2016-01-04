@@ -1,0 +1,24 @@
+Package: dplyrcalcite
+Type: Package
+Title: dplyrcalcite: dplyr connector for Apache Calcite http://calcite.incubator.apache.org
+Version: 0.0.4
+Author: Piers Harding <piers@ompka.net>
+Maintainer: Piers Harding <piers@ompka.net>
+Description: dplyr connector for Calcite.
+URL: https://github.com/piersharding/dplyr-calcite
+Roxygen: list(wrap = FALSE)
+Depends:
+    R (>= 3.0.2)
+Imports:
+    dplyr (>= 0.4.1),
+    lazyeval,
+    RJDBC (>= 0.2-3),
+    assertthat
+Suggests:
+    testthat
+VignetteBuilder: knitr
+LazyData: yes
+LinkingTo:
+License: GPL (>= 3) + file LICENSE
+Collate:
+    'src-calcite.r'
