@@ -1,16 +1,24 @@
 # dplyr-calcite
 
-dplyrcalcite is a Database connector for Calcite for dplyr the next iteration of plyr (from Hadley Wickham), focussed on tools for working with data frames (hence the `d` in the name).
+dplyrcalcite is a Database connector for Apache Calcite for dplyr the next iteration of plyr (from Hadley Wickham), focussed on tools for working with data frames (hence the `d` in the name).
 
 
 ## Installing dependencies
 
-The interface to Calcite is driven by the Calcite JDBC driver.  This will require the driver to be installed, and one of the easiest ways to achieve this is by following the installation instructions provided here:
- http://calcite.incubator.apache.org/docs/howto.html
+The interface to Apache Calcite is driven by the Calcite JDBC driver.  This will require the driver to be installed, and one of the easiest ways to achieve this is by following the installation instructions provided here:
+ http://calcite.apache.org/docs/howto.html
 and:
  http://calcite.apache.org/docs/tutorial.html
 With SQL reference here:
  http://calcite.apache.org/docs/reference.html
+
+Basically :-
+
+    ```
+    $ git clone https://github.com/apache/calcite.git
+    $ cd calcite
+    $ mvn install -DskipTests -Dcheckstyle.skip=true
+    ```
 
 The examples provided in the data directory are dependent on the sample CSV file driver implementation.
 
