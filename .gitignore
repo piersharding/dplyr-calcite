@@ -6,5 +6,5 @@
 inst/doc
 *.tar.gz
 .RData
-*.sh
-*.R
+/*.sh
+/*.R
