@@ -14,11 +14,9 @@ With SQL reference here:
 
 Basically :-
 
-    ```
     $ git clone https://github.com/apache/calcite.git
     $ cd calcite
     $ mvn install -DskipTests -Dcheckstyle.skip=true
-    ```
 
 The examples provided in the data directory are dependent on the sample CSV file driver implementation.
 
