@@ -52,7 +52,7 @@ next install dplyr with:
     devtools::install_github("hadley/dplyr")
     ```
 
-Finally install dplyr-calcite from github:
+* Finally install dplyr-calcite from github:
 
     ```R
     devtools::install_github("piersharding/dplyr-calcite")
