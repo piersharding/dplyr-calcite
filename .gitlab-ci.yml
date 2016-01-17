@@ -1,3 +1,4 @@
 test:
   script:
+  - /usr/bin/R  -e "install.packages(c('RJDBC', 'assertthat', 'testthat'), repos='http://cran.rstudio.com', dependencies = TRUE)"
   - NOT_CRAN=true R CMD check .
