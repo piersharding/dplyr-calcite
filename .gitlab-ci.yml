@@ -1,4 +1,7 @@
 test:
   script:
+  - export JAVA_HOME=/usr/lib/jvm/java-8-oracle/jre
+  - echo "//usr/lib/jvm/java-8-oracle/jre/lib/amd64/server/" >> /etc/ld.so.conf.d/java.conf
+  - ldconfig
   - /usr/bin/R  -e "install.packages(c('RJDBC', 'assertthat', 'testthat'), repos='http://cran.stat.auckland.ac.nz/', dependencies = TRUE)"
   - NOT_CRAN=true R CMD check .
