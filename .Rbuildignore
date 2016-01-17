@@ -1,6 +1,9 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.travis\.yml$
+^\.gitlab\-ci\.yml$
+.gitignore
+tests/testthat/.gitignore
 .Rprofile
 inst/db
 man-roxygen
